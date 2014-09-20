@@ -1,0 +1,218 @@
+.checkbox {
+	margin-top: 0px;
+}
+
+.blocks_forgotPwd {
+	text-align: right;
+}
+
+.panel {
+	margin-top: 50%;
+}
+
+.pga {
+	margin-top: 20px;
+	max-height: 50px;
+}
+
+.fotos {
+	padding-top: 50px;
+}
+
+.glyphicon-cog {
+	height: 10px; 
+	margin-bottom: 50px;
+	background-color: ffffff;
+}
+
+
+.calendario {
+	margin-left: 90px;
+}
+
+.aluno{
+	max-height: 120px;
+	padding-top: 10px;
+}
+	
+/* cores pra marcar os boxes.*/
+
+.esq {
+	background-color: #a7a7a7;
+	height: 110px
+}
+
+.dir {
+	background-color: #149ef5;
+	height: 110px;
+}
+
+.nr {
+	width: 300px;
+	height: 50%;
+}
+
+.esq h2 {
+	text-align: center;
+}
+
+.bc1 {
+	background-color: #ffb64e;
+	height: 400px;
+}
+
+/* fundo do feed*/
+
+.fundo {
+	background-color: #149ef5;
+	height: 400px;
+	padding-left: 0px;
+	
+}
+
+
+
+.boxe {
+	background-color: #70dd4b;
+	padding-left: 0px;
+
+	margin-left: 0px;
+	height: 400px
+}
+
+.alinhar_c {
+	text-align: center;
+}
+
+.alinhar_e {
+	text-align: left;
+}
+
+.chaves {
+	height: 90px;
+	float: right;
+	margin-top: 10px;
+}
+
+.terc {
+	background-color: #e49bc4;
+	height: 110px;	
+}
+
+.terc1 {
+	background-color: #ecef00;
+
+}
+
+.cal_hr {
+	background-color: #ef7c00;
+	height: 60px
+}
+
+.alt_cal_hr {
+	height: 60px
+}
+
+.boxe_pad {
+	padding-top: 10px;
+	margin-top: 10px;
+}
+
+.boxe_alt{
+	height: 90px;
+}
+
+
+/* input aulas */
+
+.col_dir {
+	background-color: #a7a7a7;
+	height: 400px;
+}
+
+.col_dir {
+	background-color: #ef7c00;
+	height: 400px;
+}
+
+/* substitui por icone, deixei por precaução */
+.calendario_correcao {
+	padding: 0 0;
+}
+
+.campo_txt {
+	height: 140px;
+	text-align: top;
+}
+
+.icone_correcao {
+	padding: 0 0;
+}
+
+/* admin pós login */
+
+.alt_foto {
+	max-height: 120px;
+}
+
+/* admin perfil */
+
+.boxe_alt_desc {
+	height: 370px;
+}
+
+.boxe_alt_cond {
+	height: 200px;
+}
+
+.boxe_alt_prfl{
+	height: 40px;
+	background-color: #07a2cf;
+}
+
+.modelo_azul {
+	height: 40px;
+	background-color: #07a2cf;
+	width: 100%;
+
+}
+
+.modelo_preto {
+	height: 70px;
+	background-color: #000;
+	margin-top: 20px;
+	width: 100%;
+}
+
+.modelo_preto h1{
+	color: #07a2cf;
+
+}
+
+.modelo_azul span {
+	vertical-align: middle;
+	padding: 0 0;
+	margin-top: 8px;
+}
+
+.glyphicon {
+	color: #000000;
+}
+
+.padding_escola {
+	margin-top: 60px;
+}
+
+@media only screen and (max-width : 480px) {
+	.padding_escola {
+		margin-top: 0px;
+	}
+}
+
+.icone_psico {
+	margin-top: 10px;
+}
+
+.color_icon {
+	color: white; 
+}
